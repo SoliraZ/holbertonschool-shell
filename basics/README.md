@@ -25,3 +25,5 @@ Shell basics :
 - 11-lists : Lists all files blablabla explication too long.
 
 - 12-file_type : Script that prints the type of the file named iamafile in the /tmp directory.
+
+- 13-symbolic_link : Create a symbolic link to /bin/ls, named __ls__.
