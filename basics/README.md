@@ -14,4 +14,6 @@ Shell basics :
 
 - 6-firstdirectory : Create a directory named my_first_directory in tmp directory.
 
-- 7-movethatfile : Move the file "betty" from /tmp/ /tmp/my_first_directory
+- 7-movethatfile : Move the file "betty" from /tmp/ /tmp/my_first_directory.
+
+- 8-firstdelete : Delete the file betty in /tmp/my_first_directory.
