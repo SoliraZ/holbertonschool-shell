@@ -13,3 +13,5 @@ Shell basics :
 - 5-listfilesdigitonly : Display current directory contents in a long format with user and group IDs displayed numerically and hidden files.
 
 - 6-firstdirectory : Create a directory named my_first_directory in tmp directory.
+
+- 7-movethatfile : Move the file "betty" from /tmp/ /tmp/my_first_directory
