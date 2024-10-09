@@ -23,3 +23,5 @@ Shell basics :
 - 10-back : Script that changes the working directory to the previous one.
 
 - 11-lists : Lists all files blablabla explication too long.
+
+- 12-file_type : Script that prints the type of the file named iamafile in the /tmp directory.
