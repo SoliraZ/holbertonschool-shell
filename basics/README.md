@@ -19,3 +19,5 @@ Shell basics :
 - 8-firstdelete : Delete the file betty in /tmp/my_first_directory.
 
 - 9-firstdirdeletion : Delete the directory my_first_directory that is in tmp.
+
+- 10-back : Script that changes the working directory to the previous one.
