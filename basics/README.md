@@ -31,3 +31,5 @@ Shell basics :
 - 15-lets_move : Moove only files with first letter uppercase.
 
 - 16-clean_emacs : Delete all the files in current directory that end with "~".
+
+- 17-tree : Create directories welcome/to/school in the current directory.
