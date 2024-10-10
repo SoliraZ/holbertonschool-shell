@@ -29,3 +29,5 @@ Shell basics :
 - 13-symbolic_link : Create a symbolic link to /bin/ls, named __ls__.
 
 - 15-lets_move : Moove only files with first letter uppercase.
+
+- 16-clean_emacs : Delete all the files in current directory that end with "~".
