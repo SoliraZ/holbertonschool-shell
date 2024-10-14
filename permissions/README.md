@@ -18,7 +18,7 @@
 
 - 9-John_Doe : Script that sets the mode to all perms to Owner, read and execute to group and write and execute to other users.
 
-- 10-
+- 10-mirror_permissions : Script that sets the mode of the file "hello" the same as "olleh"'s mode.
 
 - 11-
 
