@@ -28,6 +28,6 @@
 
 - 14-change_owner_and_group : Script that changes the owner to vincent and the group owner to staff for all the files and dir the working dir.
 
-- 15-
+- 15-symbolic_link_permissions : Script that changes the owner and the group of "_hello_" to vincent and staff respectively.
 
 - 16-
