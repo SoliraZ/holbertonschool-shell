@@ -16,7 +16,7 @@
 
 - 8-James_Bond : Script that sets the permission of Owner and group in no permissions and other users add all permissions.
 
-- 9-
+- 9-John_Doe : Script that sets the mode to all perms to Owner, read and execute to group and write and execute to other users.
 
 - 10-
 
