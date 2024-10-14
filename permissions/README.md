@@ -22,7 +22,7 @@
 
 - 11-directories_permissions : Script that adds execute permission to all subdirectories of the current directory for all.
 
-- 12-
+- 12-directory_permissions : Script that creates a directory called "my_dir" with permissions 751 in the working directory.
 
 - 13-
 
