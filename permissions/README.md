@@ -6,6 +6,22 @@
 
 - 3-new_owner : Script that change the owner of the file "hello" to "betty" user.
 
-- 4-empty : Script that create an empty file called "Hello".
+- 4-empty : Script that create an empty file called "hello".
+
+- 5-execute : Script that adds execute permission to the owner of the file "hello"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
