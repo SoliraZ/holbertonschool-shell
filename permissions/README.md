@@ -10,18 +10,24 @@
 
 - 5-execute : Script that adds execute permission to the owner of the file "hello"
 
+- 6-multiple_permissions : Script that adds execute permission to the owner and the group owner, and read perm to other users to the file "hello"
 
+- 7-
 
+- 8-
 
+- 9-
 
+- 10-
 
+- 11-
 
+- 12-
 
+- 13-
 
+- 14-
 
+- 15-
 
-
-
-
-
-
+- 16-
