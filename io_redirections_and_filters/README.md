@@ -1,0 +1,1 @@
+- 0-hello_world : Script that print "Hello, World" in the standard output.
