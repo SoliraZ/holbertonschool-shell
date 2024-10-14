@@ -14,7 +14,7 @@
 
 - 7-everybody : Script that adds execution permission to the owner, the group owner and the other users to the file "hello".
 
-- 8-
+- 8-James_Bond : Script that sets the permission of Owner and group in no permissions and other users add all permissions.
 
 - 9-
 
