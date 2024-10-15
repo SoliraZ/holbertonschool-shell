@@ -12,9 +12,9 @@
 
 - 6-third_line : Script that display the third line of the "iacta" file.
 
-- 7-
+- 7-file : Create a file with a shit name.
 
-- 8-
+- 8-cwd_state : Script that write the result of ls -la in the file ls_cwd_content.
 
 - 9-
 
