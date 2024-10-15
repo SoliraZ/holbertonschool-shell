@@ -42,4 +42,4 @@
 
 - 21-reverse : Script that reverse the input.
 
-- 22-
+- 22-users_and_homes : Script that displays all users and their home directories, sorted by users.
