@@ -22,7 +22,7 @@
 
 - 11-directories : Script that count the number of directories in the current repertory without sub-directories.
 
-- 12-
+- 12-newest_files : Script that displays the 10 newest files in the current directory.
 
 - 13-
 
