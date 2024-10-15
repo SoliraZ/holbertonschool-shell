@@ -38,7 +38,7 @@
 
 - 19-AZ : Script that replace 'Ac' from input to 'Ze'.
 
-- 20-
+- 20-hiago : remove all 'Cc' from input.
 
 - 21-
 
