@@ -20,7 +20,7 @@
 
 - 10-no_more_js : Script that deletes all files with a .js extension in the current directory and all subfolders.
 
-- 11-
+- 11-directories : Script that count the number of directories in the current repertory without sub-directories.
 
 - 12-
 
