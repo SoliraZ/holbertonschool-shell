@@ -30,7 +30,7 @@
 
 - 15-countthatword : Script that display the number of line that contain the pattern "bin" in the file /etc/passwd.
 
-- 16-
+- 16-whatsnext : Script that display lines containing the patern "root" and 3 lines after them in the file /etc/passwd.
 
 - 17-
 
