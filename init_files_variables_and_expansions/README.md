@@ -10,9 +10,9 @@
 
 - 5-local_variables : Script that lists all local variables and environment variables, and functions.
 
-- 6-create_local_variable : Script that create a variable with BEST and with value School.
+- 6-create_local_variable : Script that create a local variable with BEST and with value School.
 
-- 7-
+- 7-create_global_variable : Script that create a global variable with BEST and with value School.
 
 - 8-
 
