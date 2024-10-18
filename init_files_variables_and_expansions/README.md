@@ -14,7 +14,7 @@
 
 - 7-create_global_variable : Script that create a global variable with BEST and with value School.
 
-- 8-
+- 8-true_knowledge : Script that prints the result of the addition of 128 with the value stores in the environment variable TRUEKNOWLEDGE.
 
 - 9-
 
