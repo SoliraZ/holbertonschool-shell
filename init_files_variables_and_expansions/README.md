@@ -18,7 +18,7 @@
 
 - 9-divide_and_rule : Script that prints the result of "POWER" divided by "DIVIDE".
 
-- 10-
+- 10-love_exponent_breath : Script that displays the result of "BREATH" to power "LOVE".
 
 - 11-
 
