@@ -24,6 +24,6 @@
 
 - 12-combinations : Script that prints all possible combinations of two letters, except "oo".
 
-- 13-
+- 13-print_float : Script that prints a number with two decimal places.
 
-- 14-
+- 14-decimal_to_hexadecimal : Script that converts a number from base 10 to base 16.
