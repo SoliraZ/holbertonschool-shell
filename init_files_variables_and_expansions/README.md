@@ -20,7 +20,7 @@
 
 - 10-love_exponent_breath : Script that displays the result of "BREATH" to power "LOVE".
 
-- 11-
+- 11-binary_to_decimal : Script that converts a number from base 2 to base 10.
 
 - 12-
 
